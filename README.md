@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Junior Alejandro </h1>
+<h1 align="center">Hi 👋, I'm Junior Alejandro</h1>
 
-🌱 I’m currently learning **WEB Development**
+<p style="text-align: center;">🌱 I’m currently learning <strong>WEB Development</strong></p>
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <!-- tech stack icons -->
-<p align="left">
+<p align="center" class="tech-stack">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -51,3 +52,49 @@
     My CV
   </a>
 </p>
+
+<style>
+  /* Flexbox para los iconos */
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .tech-stack a {
+    text-decoration: none;
+  }
+
+  /* Responsividad para móviles */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.5em;
+    }
+
+    .tech-stack {
+      justify-content: center;
+    }
+
+    .tech-stack a img {
+      width: 35px;
+      height: 35px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 1.2em;
+    }
+
+    img {
+      width: 200px; /* Reducir el tamaño de la imagen en dispositivos más pequeños */
+      margin-bottom: 10px;
+    }
+
+    .tech-stack a img {
+      width: 30px;
+      height: 30px;
+    }
+  }
+</style>
