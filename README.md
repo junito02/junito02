@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/junior-alejandro" target="_blank" style="font-size: 18px; text-decoration: none; color: #0077b5;">
     LinkedIn
   </a> |
-  <a href="https://example.com/my-cv.pdf" target="_blank" style="font-size: 18px; text-decoration: none; color: #333;">
+  <a href="[https://example.com/my-cv.pdf](https://drive.google.com/file/d/16Ifz2q5B9ppfaCbW_VHZ-W5USeixviKy/view)" target="_blank" style="font-size: 18 px; text-decoration: none; color: #333;">
     My CV
   </a>
 </p>
