@@ -5,8 +5,8 @@
 
 <br>
 
-<h2>Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<!-- tech stack icons -->
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/junior-alejandro" target="_blank" style="font-size: 18px; text-decoration: none; color: #0077b5;">
     LinkedIn
   </a> |
-  <a href="[https://example.com/my-cv.pdf](https://drive.google.com/file/d/16Ifz2q5B9ppfaCbW_VHZ-W5USeixviKy/view)" target="_blank" style="font-size: 18 px; text-decoration: none; color: #333;">
+  <a href="https://drive.google.com/file/d/16Ifz2q5B9ppfaCbW_VHZ-W5USeixviKy/view" target="_blank" style="font-size: 18px; text-decoration: none; color: #333;">
     My CV
   </a>
 </p>
