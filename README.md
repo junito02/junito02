@@ -41,3 +41,13 @@
 </p>
 
 <br>
+
+<!-- Links to LinkedIn and CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/junior-alejandro" target="_blank" style="font-size: 18px; text-decoration: none; color: #0077b5;">
+    LinkedIn
+  </a> |
+  <a href="https://example.com/my-cv.pdf" target="_blank" style="font-size: 18px; text-decoration: none; color: #333;">
+    My CV
+  </a>
+</p>
